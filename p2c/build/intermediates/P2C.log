@@ -1,0 +1,69 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  driver.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\string_view(13): warning STL4038: The contents of <string_view> are available only with C++17 or later.
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\framework\imgui\imgui_widgets.cpp(1147,41): warning C4244: '*=': conversion from 'double' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\framework\imgui\imgui_widgets.cpp(1674,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\framework\imgui\imgui_widgets.cpp(1674,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  entry.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\string_view(13): warning STL4038: The contents of <string_view> are available only with C++17 or later.
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\sdk\worldtoscreen.hpp(147,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\sdk\worldtoscreen.hpp(152,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\sdk\worldtoscreen.hpp(185,16): warning C4141: '__forceinline': used more than once
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\sdk\worldtoscreen.hpp(193,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\sdk\worldtoscreen.hpp(194,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\sdk\worldtoscreen.hpp(195,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\sdk\worldtoscreen.hpp(204,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\sdk\worldtoscreen.hpp(205,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\sdk\worldtoscreen.hpp(206,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\sdk\worldtoscreen.hpp(210,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\sdk\worldtoscreen.hpp(211,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\sdk\worldtoscreen.hpp(214,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\sdk\worldtoscreen.hpp(215,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\sdk\worldtoscreen.hpp(219,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\sdk\worldtoscreen.hpp(220,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\sdk\worldtoscreen.hpp(232,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\sdk\worldtoscreen.hpp(233,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\sdk\worldtoscreen.hpp(234,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\sdk\worldtoscreen.hpp(259,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\sdk\worldtoscreen.hpp(260,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\sdk\worldtoscreen.hpp(261,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\overlay\overlay.hpp(238,22): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\overlay\overlay.hpp(239,22): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\overlay\overlay.hpp(236,11): warning C4101: 'xy': unreferenced local variable
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\overlay\overlay.hpp(264,57): warning C4305: 'argument': truncation from 'ImGuiWindowFlags_' to 'bool'
+C:\Users\sohom\Desktop\fortnite base\p2c\frontend\protection\encryption\string\xor.hpp(100,21): warning C4244: 'return': conversion from 'UINT64' to '_CHAR_TYPE_', possible loss of data
+          with
+          [
+              _CHAR_TYPE_=CHAR
+          ]
+C:\Users\sohom\Desktop\fortnite base\p2c\frontend\protection\encryption\string\xor.hpp(95,15): message : while compiling class template member function '_CHAR_TYPE_ _XORSTR_<_CHAR_TYPE_,6>::CRYPT_CHAR(_CHAR_TYPE_,SIZE_T)'
+          with
+          [
+              _CHAR_TYPE_=CHAR
+          ]
+C:\Users\sohom\Desktop\fortnite base\p2c\frontend\protection\encryption\string\xor.hpp(83,18): message : see the first reference to '_XORSTR_<CHAR,6>::CRYPT_CHAR' in '_XORSTR_<CHAR,6>::String'
+C:\Users\sohom\Desktop\fortnite base\p2c\entry.cpp(73,8): message : see the first reference to '_XORSTR_<CHAR,6>::String' in 'main'
+C:\Users\sohom\Desktop\fortnite base\p2c\entry.cpp(73,9): message : see reference to class template instantiation '_XORSTR_<CHAR,6>' being compiled
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\driver\driver.hpp(25,22): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\sdk\worldtoscreen.hpp(292,26): message : see reference to function template instantiation 't driver::comms::read<uintptr_t>(const uintptr_t)' being compiled
+          with
+          [
+              t=uintptr_t
+          ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\sohom\Desktop\fortnite base\p2c\backend\game\world\overlay\overlay.hpp(192): warning C4715: 'DirectX::DirectX11::initiate': not all control paths return a value
+  All 1452 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  P2C.vcxproj -> C:\Users\sohom\Desktop\fortnite base\p2c\build\sohomexternal.exe
