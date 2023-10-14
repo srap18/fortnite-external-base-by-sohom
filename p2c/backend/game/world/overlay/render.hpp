@@ -10,20 +10,6 @@ namespace v
 	{
 	public:
 
-		__forceinline auto skeleton(uintptr_t Mesh) -> bool
-		{
-			
-		}
-
-		__forceinline auto twodbox(uintptr_t Mesh) -> void
-		{
-	
-		}
-
-		__forceinline auto text(ImFont* Font, ImVec2 pos, ImU32 color, const char* text) -> void
-		{
-		
-		}
 	};
 }
 static v::draw* draw = new v::draw();
